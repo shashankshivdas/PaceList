@@ -5,10 +5,10 @@
  */
 
   //Development Database Information
-    $db_host = "localhost"; //Host address (most likely localhost)
-    $db_name = "php_final_project"; //Name of Database
-    $db_user = "root"; //Name of database user
-    $db_pass = ""; //Password for database user
+    $db_host = "sql9.freemysqlhosting.net"; //Host address (most likely localhost)
+    $db_name = "sql9163206"; //Name of Database
+    $db_user = "sql9163206"; //Name of database user
+    $db_pass = "gTb48UgEVn"; //Password for database user
     $db_table_prefix = ""; // if the table prefix exists use this variable as a global
 
 
